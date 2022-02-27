@@ -1,3 +1,3 @@
 # WAN
 
-Wireless Area Network configuration in Cisco Packet Tracer
+Wide Area Network configuration in Cisco Packet Tracer
